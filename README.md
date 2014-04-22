@@ -8,14 +8,12 @@
 ### GA Session metrics by ga:deviceCategory
 
 * ![SPM Session](https://raw.githubusercontent.com/loganis/spm-lqs/master/out/spm.png "Scatter Plot Matrix for Session metrics")
-* [PDF output](https://github.com/loganis/spm-lqs/raw/master/out/spm.pdf)
-* [SVG output](https://github.com/loganis/spm-lqs/raw/master/out/spm.svg)
+* Find PDF and SVG examples in your local `out` directory
 
 ### GA Adwords metrics by ga:campaign
 
 * ![SPM Adwords](https://raw.githubusercontent.com/loganis/spm-lqs/master/out/spm2.png "Scatter Plot Matrix for Adwords metrics")
-* [PDF output](https://github.com/loganis/spm-lqs/raw/master/out/spm2.pdf)
-* [SVG output](https://github.com/loganis/spm-lqs/raw/master/out/spm2.svg)
+* Find PDF and SVG examples in your local `out` directory
 
 ## Usage
 
