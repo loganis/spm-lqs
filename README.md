@@ -7,7 +7,11 @@
 
 ### GA Session metrics by ga:deviceCategory
 
+* ![SPM Session](out/spm.png "Scatter Plot Matrix for Session metrics")
+
 ### GA Adwords metrics by ga:campaign
+
+* ![SPM Adwords](out/spm2.png "Scatter Plot Matrix for Adwords metrics")
 
 ## Usage
 
