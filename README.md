@@ -8,10 +8,14 @@
 ### GA Session metrics by ga:deviceCategory
 
 * ![SPM Session](https://raw.githubusercontent.com/loganis/spm-lqs/master/out/spm.png "Scatter Plot Matrix for Session metrics")
+* [PDF output](https://github.com/loganis/spm-lqs/raw/master/out/spm.pdf)
+* [SVG output](https://github.com/loganis/spm-lqs/raw/master/out/spm.svg)
 
 ### GA Adwords metrics by ga:campaign
 
 * ![SPM Adwords](https://raw.githubusercontent.com/loganis/spm-lqs/master/out/spm2.png "Scatter Plot Matrix for Adwords metrics")
+* [PDF output](https://github.com/loganis/spm-lqs/raw/master/out/spm2.pdf)
+* [SVG output](https://github.com/loganis/spm-lqs/raw/master/out/spm2.svg)
 
 ## Usage
 
@@ -31,6 +35,7 @@ git clone https://github.com/loganis/spm-lqs.git
 * Update channel names in `query` and `query2` definitions
 * Load or Jack-in
 * Results are saved to `out` directory
+* Examine source code and update it to your needs
 
 ## License
 
